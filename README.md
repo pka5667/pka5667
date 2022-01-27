@@ -1,4 +1,14 @@
 ### Hi there 👋
+My name is Pulkit Kumar Agarwal. 
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/pka5667">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pka5667&hide=dockerfile,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/pka5667">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pka5667&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Pulkit's GitHub Stats" />
+</a>
 
 <!--
 **pka5667/pka5667** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
